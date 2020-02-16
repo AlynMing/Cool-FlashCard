@@ -4,7 +4,7 @@
 ## Lab 1
 
 ### App Description
-`TODO://` Add app description
+The app shows the answer to the flashcard question when clicked
 
 
 <img src="https://imgur.com/Y8mmGoV.gif" width=200><br>
